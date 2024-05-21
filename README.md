@@ -20,7 +20,7 @@
 <img align="center"  height="40" width="40" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
 </a>
 
-<a  href="https://www.linkedin.com/in/tmrodrigues1/" target=_blank title="Minha rede corporativa">
+<a  href="https://www.linkedin.com/in/tmrodrigues1/" target=_blank title="Rede Profissional">
 <img align="center"  height="40" width="40" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
 </a>
 
