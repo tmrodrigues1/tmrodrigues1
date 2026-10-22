@@ -12,7 +12,7 @@
 
 <div align="center">
 <p align="centre"><b>Social Media</b></p> 
-<a href="https://bit.ly/4aVX67O?r=lp" target="_blank" title="Conheça meu Portfólio">
+<a href="https://thiagorodrigues1.com.br/" target="_blank" title="Conheça meu Portfólio">
 <img align="center" height="40" width="40" src="https://github.com/tmrodrigues1/tmrodrigues1/assets/168796669/5d866d80-275b-4878-8110-23d1c2bb8bd7">
 </a>
 
